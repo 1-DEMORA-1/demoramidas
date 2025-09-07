@@ -1,0 +1,18 @@
+name: DemoraMidas
+version: 1.0.0
+main: com.demora.demoramidas.DemoraMidasPlugin
+api-version: 1.21
+author: __DEMORA__
+description: Меч Мидаса
+
+commands:
+  dem:
+    description: Команда для выдачи меча Мидаса
+    usage: /dem give midas <игрок>
+    permission: demoramidas.admin
+    permission-message: "§cУ вас нет прав для использования этой команды!"
+
+permissions:
+  demoramidas.admin:
+    description: Позволяет использовать команду /dem
+    default: op

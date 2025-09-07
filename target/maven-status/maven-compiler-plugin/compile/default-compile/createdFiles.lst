@@ -1,0 +1,4 @@
+com\demora\demoramidas\utils\MidasSwordUtils.class
+com\demora\demoramidas\commands\DemCommand.class
+com\demora\demoramidas\listeners\PlayerKillListener.class
+com\demora\demoramidas\DemoraMidasPlugin.class
