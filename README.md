@@ -1,2 +1,2 @@
 # Меч мидаса 1.21
-#/dem give midas ник
+# /dem give midas ник
